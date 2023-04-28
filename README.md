@@ -1,12 +1,18 @@
 # DADDI-py
-## Collin M McCabe, PhD
-## 28 April 2023
+__AUTHOR:__ Collin M McCabe, PhD
+
+__DATE:__ 28 April 2023
+
 ---
 # Data science &amp; Analytics Docker Developer Image for Python (DADDI-py)
 
-SUMMARY: This repository contains all the relevant files needed to make a Docker dev environment for data science &amp; analytics projects written mainly in Python 3.
+## __SUMMARY:__
 
-LICENSE: Copyright 2023 Collin M McCabe, PhD
+This repository contains all the relevant files needed to make a Docker dev environment for data science &amp; analytics projects written mainly in Python 3.
+
+## __LICENSE:__
+
+Copyright 2023 Collin M McCabe, PhD
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
