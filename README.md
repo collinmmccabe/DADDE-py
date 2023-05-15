@@ -1,6 +1,6 @@
 # DADDE-py
 
-![DADDE-py Logo](https://github.com/collinmmccabe/portfolio/blob/DADDE-py-logo/image.png?raw=true)
+![DADDE-py Logo](https://github.com/collinmmccabe/portfolio/blob/DADDE-py-logo.png)
 
 __AUTHOR:__ Collin M McCabe, PhD
 
