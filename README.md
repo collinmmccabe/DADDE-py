@@ -1,14 +1,17 @@
-# DADDI-py
+# DADDE-py
+
+![DADDE-py Logo](https://github.com/collinmmccabe/portfolio/blob/DADDE-py-logo/image.png?raw=true)
+
 __AUTHOR:__ Collin M McCabe, PhD
 
 __DATE:__ 28 April 2023
 
 ---
-# Data science &amp; Analytics Docker Developer Image for Python (DADDI-py)
+# Data science &amp; Analytics Docker Developer Environment for Python (DADDE-py)
 
 ## __SUMMARY:__
 
-This repository contains all the relevant files needed to make a Docker dev environment for data science &amp; analytics projects written mainly in Python 3.
+This repository contains all the relevant files needed to make a Docker developer environment for data science &amp; analytics projects written mainly in Python 3.
 
 ## __LICENSE:__
 
